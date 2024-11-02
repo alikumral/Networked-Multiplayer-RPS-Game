@@ -1,0 +1,14 @@
+C:\Users\ayarm\Desktop\CS408\proj408\client\client\bin\Debug\client.exe.config
+C:\Users\ayarm\Desktop\CS408\proj408\client\client\bin\Debug\client.exe
+C:\Users\ayarm\Desktop\CS408\proj408\client\client\bin\Debug\client.pdb
+C:\Users\ayarm\Desktop\CS408\proj408\client\client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ayarm\Desktop\CS408\proj408\client\client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ayarm\Desktop\CS408\proj408\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\ayarm\Desktop\CS408\proj408\client\client\obj\Debug\client.Form1.resources
+C:\Users\ayarm\Desktop\CS408\proj408\client\client\obj\Debug\client.Form2.resources
+C:\Users\ayarm\Desktop\CS408\proj408\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\ayarm\Desktop\CS408\proj408\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\ayarm\Desktop\CS408\proj408\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\ayarm\Desktop\CS408\proj408\client\client\obj\Debug\client.csproj.CopyComplete
+C:\Users\ayarm\Desktop\CS408\proj408\client\client\obj\Debug\client.exe
+C:\Users\ayarm\Desktop\CS408\proj408\client\client\obj\Debug\client.pdb

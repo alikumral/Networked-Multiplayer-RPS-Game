@@ -1,0 +1,44 @@
+[
+  {
+    "winCount": 2,
+    "loseCount": 9,
+    "move": null,
+    "isEliminated": false,
+    "Username": "murat"
+  },
+  {
+    "winCount": 4,
+    "loseCount": 6,
+    "move": null,
+    "isEliminated": false,
+    "Username": "ali"
+  },
+  {
+    "winCount": 3,
+    "loseCount": 6,
+    "move": null,
+    "isEliminated": false,
+    "Username": "ata"
+  },
+  {
+    "winCount": 2,
+    "loseCount": 5,
+    "move": null,
+    "isEliminated": false,
+    "Username": "eren"
+  },
+  {
+    "winCount": 0,
+    "loseCount": 4,
+    "move": null,
+    "isEliminated": false,
+    "Username": "derin"
+  },
+  {
+    "winCount": 1,
+    "loseCount": 0,
+    "move": null,
+    "isEliminated": false,
+    "Username": "serhan"
+  }
+]
